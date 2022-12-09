@@ -13,7 +13,7 @@ Stations:
 Trips:
 * Bike ID
 * Birthyear
-* * Gender
+* Gender
 * End Time
 * From Station  Name
 * End Station Name
