@@ -26,4 +26,7 @@ Trips table:
 * Trips(Count): count of number of tips
 
 
-### Note
+## Note
+### User type:  
+Customers: don't have informations,which is null values for gender and birthyear. 
+If Subscribers cancel their subscription and become customers, in that case, the gender and birthdayyear will be kept.
