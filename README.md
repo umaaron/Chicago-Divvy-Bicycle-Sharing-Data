@@ -26,4 +26,4 @@ Trips table:
 * Trips(Count): count of number of tips
 
 
-
+### Note
