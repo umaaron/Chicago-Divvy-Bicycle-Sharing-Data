@@ -3,11 +3,23 @@
 ## Divvy Data:
 https://ride.divvybikes.com/system-data
 
-## Data 
-Each trip is anonymized and includes:
+## Divvy Data include two tables
+Stations:
+* ID
+* Lattitude
+* Longitude
+* Station Name
 
-* Trip start day and time
-* Trip end day and time
-* Trip start station
-* Trip end station
-* Rider type (Member, Single Ride, and Day Pass)
+Trips:
+* Bike ID
+* Birthyear
+* * Gender
+* End Time
+* From Station  Name
+* End Station Name
+* To Station ID
+* To Station ID
+* Usertype
+* Tripduration
+* Trips(Count)
+
