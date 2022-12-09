@@ -5,6 +5,7 @@ https://ride.divvybikes.com/system-data
 
 ## Divvy Data include two tables
 Taken between Jan -June,2019
+
 Stations:
 * ID
 * Lattitude
