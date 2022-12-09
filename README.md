@@ -1,4 +1,4 @@
-# Chicago-Divvy-Bicycle-Sharing-Data
+# Tableau Visualization and Analysis of Chicago-Divvy-Bicycle-Sharing-Data Tableau Visualization and Analysis
 
 ## Divvy Data:
 https://ride.divvybikes.com/system-data
@@ -24,4 +24,4 @@ Trips:
 * Trips(Count)
 
 
-#  Tableau Visualization and Analysis
+
