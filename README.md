@@ -6,13 +6,13 @@ https://ride.divvybikes.com/system-data
 ## Divvy Data include two tables
 Taken between Jan -June,2019
 
-Stations:
+Stations table:
 * ID
 * Lattitude
 * Longitude
 * Station Name
 
-Trips:
+Trips table:
 * Bike ID: Id for each bike
 * Birthyear: birth year of rider
 * Gender: gender of rider
