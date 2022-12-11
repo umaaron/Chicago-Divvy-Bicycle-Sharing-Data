@@ -1,4 +1,4 @@
-# Tableau Visualization and Analysis of Chicago-Divvy-Bicycle-Sharing-Data Tableau Visualization and Analysis
+# Tableau Visualization and Analysis of Chicago-Divvy-Bicycle-Sharing-Data 
 
 ## Divvy Data:
 https://ride.divvybikes.com/system-data
